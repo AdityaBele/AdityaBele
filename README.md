@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science in Python**
 
-- 💬 Ask me about **Numpy,Matplotlib,Android Studio,figma**
+- 💬 Ask me about **Data Science,Flutter,Android Studio,figma**
 
 - 📫 How to reach me **adityabele703@gmail.com**
 
