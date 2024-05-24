@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Science,Flutter,Android Studio,figma**
 
-- 📫 How to reach me **[adityabele703@gmail.com](https://adityabele.github.io/My_Protfolio_website/)**
+- 📫 How to reach me **"https://adityabele.github.io/My_Protfolio_website/"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
